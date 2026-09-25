@@ -1,3 +1,4 @@
+// mcmf
 template<typename Cap, typename Cost>
 struct mcmf {
     struct edge {
